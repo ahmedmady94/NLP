@@ -1,0 +1,36 @@
+	text	intent
+0	hello there	greetings
+1	good morning	greetings
+2	welcome	greetings
+3	hi!, how are you	greetings
+4	Hi there !!	greetings
+5	thanks	thanks
+6	that's it	thanks
+7	goodbye	thanks
+8	bye	thanks
+9	okay	thanks
+10	How much for the python course?	cost_enq
+11	what is the cost for C++ course?	cost_enq
+12	can you tell me the price of java course	cost_enq
+13	what do i pay for data science track?	cost_enq
+14	how much will i pay for this?	cost_enq
+15	how much time will the deep learning track be?	duration_enq
+16	how much will it take?	duration_enq
+17	can you tell me the duration of the whole specialization?	duration_enq
+18	what is the total duration of the python course?	duration_enq
+19	and the duration?	duration_enq
+20	do you have courses on machine learning?	availability_enq
+21	i want to know if you have embedded systems course	availability_enq
+22	do you teach data science?	availability_enq
+23	i want to learn to code	availability_enq
+24	do you have android courses?	availability_enq
+25	when will the course start?	start_enq
+26	when can i start the next machine learning course	start_enq
+27	can you tell me the starting date of the python course	start_enq
+28	what is the start date for the upcoming session?	start_enq
+29	what is the soonest session	start_enq
+30	i want to reserve the python course	reserve_enq
+31	i want to sign up in the data science track	reserve_enq
+32	let me take this course	reserve_enq
+33	sign me up in the machine learning track	reserve_enq
+34	register me in the java course	reserve_enq
